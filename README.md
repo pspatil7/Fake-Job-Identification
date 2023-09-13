@@ -1,1 +1,1 @@
-# ML-projects-1
+Project regarding fake job potings using different classifiction models.

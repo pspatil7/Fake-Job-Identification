@@ -1,1 +1,1 @@
-Project regarding fake job potings using different classifiction models.
+Fake job potings using different classifiction models.

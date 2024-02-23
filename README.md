@@ -10,7 +10,7 @@ For this project, I chose to train and evaluate the following machine learning m
 5) Gaussian Naive Bayes Classifier
 6) Gradient Boosting 
 
-
+Also i have attached a file where i used pycaret for the classification.
 
 
 
